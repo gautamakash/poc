@@ -1,0 +1,11 @@
+{
+	"name" : "myFirstMicroService",
+	"description" : "First NodeJS application",
+	"version" : "0.0.1",
+	"main" : "index.js",
+	"author" : "akashgautam007@gmail.com",
+	"license" : "MIT",
+	"dependencies" : {
+		"express" : "*"
+	}
+}
