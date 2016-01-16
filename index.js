@@ -7,4 +7,4 @@ app.get('/', function(req, res){
 	res.status(200).json(req.query);
 });
 
-app.listen(8080);
+app.listen(process.env.PORT, process.env.IP);
